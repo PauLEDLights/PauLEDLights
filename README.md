@@ -19,7 +19,7 @@
         \/                         \/      \/
 ```
 
-Sorry sir for the very very very very late submission!
+I apologize sir for the very very very very late submission!
 
 </details>
 
