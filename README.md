@@ -1,4 +1,8 @@
-## Hi there 👋
+## About
+
+- Paul John Labide
+- BS Statistics Student @ Rizal Technological University
+- E-mail: 2021-110729@rtu.edu.ph
 
 <!--
 **PauLEDLights/PauLEDLights** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
